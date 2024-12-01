@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Programming\AoC2024\AoC\AoC\Source.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+  AoC.vcxproj -> D:\Programming\AoC2024\AoC\Debug\AoC.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
